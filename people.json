@@ -2,7 +2,7 @@
     {
         "name": "Paolo",
         "age": 30,
-        "role": "TODO"
+        "role": "Sensei"
     },
     {
         "name": "Maria",
@@ -11,7 +11,7 @@
     },
     {
         "name": "Michela",
-        "age": 20,
-        "role": "TODO"
+        "age": 26,
+        "role": "Intern"
     }
 ]
