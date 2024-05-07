@@ -1,0 +1,2 @@
+07/05 - fine del corso su DocumentDB e inizio di quello su Amazon API Gateway.
+        gl ultimi argomenti del corso su DocumentDb sono stati sulla risoluzione dei problemi relativi alle prestazioni.
