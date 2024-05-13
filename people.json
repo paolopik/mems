@@ -1,15 +1,18 @@
 [
     {
+        "id": 1,
         "name": "Paolo",
         "age": 30,
         "role": "Sensei"
     },
     {
+        "id": 2,
         "name": "Maria",
         "age": 28,
         "role": "La più simpatica"
     },
     {
+        "id": 3,
         "name": "Michela",
         "age": 26,
         "role": "Intern"
